@@ -1,7 +1,9 @@
 #Expense and Income Tracker
+
 A simple Java-based application for tracking expenses and incomes. Manage your financial transactions with an easy-to-use interface.
 
 #Features
+
 Add Entries: Easily add new expense or income entries with details such as date, description, amount, and type.
 
 Edit and Remove Entries: Modify or remove existing entries to update your financial records.
