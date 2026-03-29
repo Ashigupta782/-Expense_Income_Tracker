@@ -161,7 +161,7 @@ public class ExpensesIncomesTracker extends JFrame {
         amountField.setText("");
         typeCombobox.setSelectedIndex(0);
     }
-
+ 
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> new ExpensesIncomesTracker());
     }
