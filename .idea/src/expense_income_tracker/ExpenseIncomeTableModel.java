@@ -92,5 +92,5 @@ public class ExpenseIncomeTableModel extends AbstractTableModel {
         return getColumnValue(entry, columnIndex);
     }
 }
-
+ 
 
