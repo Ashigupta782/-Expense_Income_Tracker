@@ -5,3 +5,4 @@ public class Expense_Income_Tracker {
         new ExpensesIncomesTracker().setLocationRelativeTo(null);
     }
 }
+ 
