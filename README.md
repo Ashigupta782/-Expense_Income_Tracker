@@ -1,9 +1,8 @@
 #Expense and Income Tracker
-
 A simple Java-based application for tracking expenses and incomes. Manage your financial transactions with an easy-to-use interface.
 
-#Features
 
+#Features
 Add Entries: Easily add new expense or income entries with details such as date, description, amount, and type.
 
 Edit and Remove Entries: Modify or remove existing entries to update your financial records.
@@ -26,3 +25,21 @@ Date Formatting and Filtering: Entries are organized by date, and you can filter
 1. Java
 2. Swing (for the GUI)
 3. FlatLaf (Look and Feel library)# -Expense_Income_Tracker
+
+
+#How to Run
+1. Clone the repository
+2. Open project in IntelliJ IDEA
+3. Run `Expense_Income_Tracker.java`
+4. The application window will open
+
+
+# Project Structure
+src/
+ └── expense_income_tracker/
+      ├── ExpenseIncomeEntry.java
+      ├── ExpenseIncomeTableModel.java
+      ├── Expense_Income_Tracker.java
+      └── ExpensesIncomesTracker.java
+
+  
