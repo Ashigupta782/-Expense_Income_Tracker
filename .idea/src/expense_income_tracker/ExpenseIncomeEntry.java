@@ -20,3 +20,4 @@ public class ExpenseIncomeEntry {
     public double getAmount(){ return amount;}
     public String getType(){ return type;}
 }
+ 
